@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AnagramChecker-Console": {
+      "commandName": "Project",
+      "commandLineArgs": "getKnown silent"
+    }
+  }
+}
